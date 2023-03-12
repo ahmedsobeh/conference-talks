@@ -1,7 +1,7 @@
-#Slides to talks that I've given at conferences
+# Slides to talks that I've given at conferences
 
 
-# The "F" in FOSS
+## The "F" in FOSS
 Affording Open Source in devleoping countries
 
 ## License
